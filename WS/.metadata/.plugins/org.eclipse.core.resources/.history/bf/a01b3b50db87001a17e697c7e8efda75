@@ -21,8 +21,8 @@ public class Kurra {
 		int index = (int) (Math.random() * isimler.length);
 
 		for (int i = 0; i < 10; i++) {
-			System.out.println("Hesaplanıyor");
 			Thread.sleep(1000);
+			System.out.println("Hesaplanıyor");
 		}
 
 		System.out.println(isimler[index]);

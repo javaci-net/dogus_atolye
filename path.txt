@@ -1,13 +1,21 @@
 Presedurel programlama
 OOP
-socket programlama
+Veri yapıları algoritmalar
 Thread programlama
-Java 8 streams
+socket programlama
+
+Html + css + javascript -> https://www.w3schools.com/
+Java servler ile web programla  veya php, ptyhon, nodejs (Javascript)
+
+
+Java 8 streams -> fonksiyone programlamaya giriş
+
+SQL (https://www.w3schools.com/) - JDBC 
+
+
 Genetic ve collection library
-Html + css + javascript
-Java servler ile web programla
 Spring boot catisi hakkinda bilgi sahibi olma
 Restfull service
 Web service 
 Hibernate / jpa / spring data
-Angularjs yada react js
+Angularjs yada react js (MVC)
