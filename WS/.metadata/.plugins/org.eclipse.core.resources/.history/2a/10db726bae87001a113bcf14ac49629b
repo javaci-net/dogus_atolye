@@ -1,0 +1,10 @@
+
+public class Kurra {
+	public static void main(String[] args) {
+		String[] isimler = {"ali", "veli"};
+		
+		int index = (int) (Math.random() * isimler.length);
+		System.out.println(isimler[index]);
+	}
+
+}

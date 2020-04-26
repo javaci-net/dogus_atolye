@@ -1,0 +1,13 @@
+Presedurel programlama
+OOP
+socket programlama
+Thread programlama
+Java 8 streams
+Genetic ve collection library
+Html + css + javascript
+Java servler ile web programla
+Spring boot catisi hakkinda bilgi sahibi olma
+Restfull service
+Web service 
+Hibernate / jpa / spring data
+Angularjs yada react js
